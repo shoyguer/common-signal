@@ -1,1 +1,0 @@
-speed = 1.25 * ((global.difficulty + 1) / 2);
