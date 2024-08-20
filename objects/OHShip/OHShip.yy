@@ -11,6 +11,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"OMBAlien","path":"objects/OMBAlien/OMBAlien.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"OSBAlien","path":"objects/OSBAlien/OSBAlien.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"OEShoot","path":"objects/OEShoot/OEShoot.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_item1","path":"objects/obj_item1/obj_item1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"OHShip",
@@ -38,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SHShip",
-    "path":"sprites/SHShip/SHShip.yy",
+    "name":"spr_playerShip",
+    "path":"sprites/spr_playerShip/spr_playerShip.yy",
   },
   "spriteMaskId":null,
   "visible":true,

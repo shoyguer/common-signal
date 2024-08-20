@@ -1,4 +1,4 @@
-speed = -0.7 * ((global.difficulty + 1) / 2);
+speed = -0.65 * ((global.difficulty + 1) / 2);
 
 hp = 100;
 

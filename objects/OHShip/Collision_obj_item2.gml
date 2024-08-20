@@ -1,0 +1,1 @@
+draw_circle(OHShip.x,OHShip.y,24,5);
