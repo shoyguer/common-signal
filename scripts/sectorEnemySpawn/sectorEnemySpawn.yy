@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sectorEnemySpawn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sectorEnemySpawn",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

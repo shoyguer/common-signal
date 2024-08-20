@@ -1,0 +1,6 @@
+enum playerState {
+
+	alive,
+	dead
+
+}

@@ -1,0 +1,3 @@
+inputsH();
+movement();
+shoot();

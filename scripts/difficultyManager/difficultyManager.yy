@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"difficultyManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"difficultyManager",
+  "parent":{
+    "name":"Global",
+    "path":"folders/Scripts/Global.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

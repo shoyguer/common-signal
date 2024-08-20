@@ -1,0 +1,1 @@
+if (image_index > 3.9) instance_destroy(self);
